@@ -1,0 +1,4 @@
+E_pot	E_rest(D)	D	contact_state	temp
+# Energy units: Joules/mol
+# Restrained contact state: [(0, 4)]
+# kspring: 0.171428571429

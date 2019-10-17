@@ -1,0 +1,207 @@
+MODEL 0
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       3.000   0.000   0.000
+TER
+END
+MODEL 1
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       3.000   0.000   0.000
+TER
+END
+MODEL 2
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       3.000   0.000   0.000
+TER
+END
+MODEL 3
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       0.000   1.000   0.000
+ATOM      2  N   ASP     2       0.000   2.000   0.000
+ATOM      3  N   ASP     3       1.000   2.000   0.000
+ATOM      4  O   ALA     4       1.000   1.000   0.000
+ATOM      5  O   ALA     5       2.000   1.000   0.000
+TER
+END
+MODEL 4
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 5
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 6
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 7
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 8
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 9
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 10
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 11
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 12
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 13
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 14
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 15
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       1.000   0.000   0.000
+ATOM      2  N   ASP     2       2.000   0.000   0.000
+ATOM      3  N   ASP     3       2.000  -1.000   0.000
+ATOM      4  O   ALA     4       1.000  -1.000   0.000
+ATOM      5  O   ALA     5       1.000  -2.000   0.000
+TER
+END
+MODEL 16
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       0.000   1.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       1.000   0.000   0.000
+TER
+END
+MODEL 17
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       0.000   1.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       1.000   0.000   0.000
+TER
+END
+MODEL 18
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       0.000   1.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       1.000   0.000   0.000
+TER
+END
+MODEL 19
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       0.000   1.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       1.000   0.000   0.000
+TER
+END
+MODEL 20
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       0.000   1.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       1.000   0.000   0.000
+TER
+END
+MODEL 21
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       0.000   1.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       1.000   0.000   0.000
+TER
+END
+MODEL 22
+ATOM      0  O   ALA     0       0.000   0.000   0.000
+ATOM      1  O   ALA     1       0.000   1.000   0.000
+ATOM      2  N   ASP     2       1.000   1.000   0.000
+ATOM      3  N   ASP     3       2.000   1.000   0.000
+ATOM      4  O   ALA     4       2.000   0.000   0.000
+ATOM      5  O   ALA     5       1.000   0.000   0.000
+TER
+END
